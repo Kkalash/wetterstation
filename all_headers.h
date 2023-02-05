@@ -1,0 +1,8 @@
+#include "headers/zeit.h"
+#include "grafics/hitze.h"
+#include "grafics/sonnig.h"
+#include "grafics/schnee.h"
+#include "grafics/wolkig.h"
+#include "grafics/tropfen.h"
+#include "grafics/teil_sonnig.h"
+#include "grafics/mond_wolkig.h"
