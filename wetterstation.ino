@@ -1,5 +1,5 @@
 /* Project     : Wetterstation
-   Autors      : Khaldoun Kalash, Snjezana Petrovic
+   Autors      : Khaldoun Kalash
    Last Update : 29.01.2023
    Version     : 1.0
 */
