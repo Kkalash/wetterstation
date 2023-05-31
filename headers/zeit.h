@@ -3,9 +3,9 @@
 #include <WiFiUdp.h>
 
 // die Netzwerk-SSID (Name)
-const char ssid[] = "UBBST-WLAN";  // UBBST-WLAN Vodafone-67A4
+const char ssid[] = "***********";  
 // das Netzwerkpasswort
-const char pass[] = "Game2016";  //Game2016 AgGccGmL47tfhCcX
+const char pass[] = "**********";  
 const int timeZone = 1;                  // Mitteleuropäische Zeit
 // Die NTP-Zeit befindet sich in den ersten 48 Bytes der Nachricht
 const int NTP_PACKET_SIZE = 48;          
