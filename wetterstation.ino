@@ -71,7 +71,6 @@ void loop() {
 * Feuchtigkeit und Hellihkeit dar.
 */
 void drawGrafic(float temperatur, float feuchtigkeit, int helligkeit) {
-  char test[] = hitze
   if (temperatur < 4) {
     // Stellt das Grafik auf dem Monitor dar
     display.drawXBitmap(IMAGE_POS, IMAGE_POS, schnee, IMAGE_SIZE, IMAGE_SIZE, WHITE);
